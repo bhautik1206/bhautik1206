@@ -29,6 +29,6 @@ href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="http
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prathamesh18X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh18X&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh18X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bhautik1206&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhautik1206&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhautik1206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
