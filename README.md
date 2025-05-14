@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **ReactJS,Javascript,Angular Js , Next Js, Mongodb, Node JS , Express JS, C# , .net , mySQl**
 
-- 📫 How to reach me **bhautikkapadiya6@gmail.com**
+- 📫 How to reach me **bhautikkapadiya06@gmail.com**
+
+- 🌍 checkout my website : www.bhautik.co.in
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jA8yEk0KCxufLHGSg5rLLvvF11zHL8NJ/view?usp=sharing](https://drive.google.com/file/d/1jA8yEk0KCxufLHGSg5rLLvvF11zHL8NJ/view?usp=sharing)
 
