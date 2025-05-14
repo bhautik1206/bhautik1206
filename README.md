@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhautik1206&label=Profile%20views&color=0e75b6&style=flat" alt="bhautik1206" /> </p>
 
-- 🌱 I’m currently learning **Mongo Db, Node js**
+- 🌱 I’m currently learning **C# and mysql**
 
-- 💬 Ask me about **ReactJS,Javascript**
+- 💬 Ask me about **ReactJS,Javascript,Angular Js , Next Js, Mongodb, Node JS , Express JS, C# , .net , mySQl**
 
 - 📫 How to reach me **bhautikkapadiya6@gmail.com**
 
