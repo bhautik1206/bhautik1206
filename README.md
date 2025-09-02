@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/bhautik6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhautik6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhautik-kapadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhautik-kapadiya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bhautik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhautik" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16425368/bhautik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhautik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhautikkapadiya6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhautikkapadiya6" height="30" width="40" /></a>
 </p>
 
