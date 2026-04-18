@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhautik Kapadiya</h1>
 <h3 align="center">Problem solver|full-stack developer|Java Developer</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhautik1206&label=Profile%20views&color=0e75b6&style=flat" alt="bhautik1206" /> </p>
 # 💫 About Me:
 💬 Ask me about ReactJS,Javascript,Angular Js , Next Js, Mongodb, Node JS , Express JS, C# , .net , mySQl<br><br>📫 How to reach me bhautikkapadiya06@gmail.com<br><br>🌍 checkout my website : www.bhautik.co.in<br><br>📄 Know about my experiences https://drive.google.com/file/d/1jA8yEk0KCxufLHGSg5rLLvvF11zHL8NJ/view?usp=sharing<br><br>⚡ Fun fact I think .....🤔🤔🤔🤔🤔
 
